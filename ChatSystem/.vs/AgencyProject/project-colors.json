@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccce9515-e473-4fb8-8152-14fb6572f3a0": {
+      "ProjectGuid": "ccce9515-e473-4fb8-8152-14fb6572f3a0",
+      "DisplayName": "AgencyProject",
+      "ColorIndex": 0
+    },
+    "28e0eedb-4e93-46bb-9466-962e23bda861": {
+      "ProjectGuid": "28e0eedb-4e93-46bb-9466-962e23bda861",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "aca0e8c8-7ed8-4547-a20a-b6fc975827e5": {
+      "ProjectGuid": "aca0e8c8-7ed8-4547-a20a-b6fc975827e5",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
